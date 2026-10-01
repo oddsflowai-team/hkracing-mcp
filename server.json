@@ -1,0 +1,8 @@
+{
+  "name": "io.github.oddsflowai-team/hkracing",
+  "description": "Hong Kong horse racing: race cards, AI win chances, odds, results, form and stats.",
+  "version": "1.0.0",
+  "websiteUrl": "https://hkracing.live",
+  "repository": { "url": "https://github.com/oddsflowai-team/hkracing-mcp", "source": "github" },
+  "remotes": [{ "type": "streamable-http", "url": "https://hkracing.live/mcp" }]
+}
