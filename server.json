@@ -1,5 +1,7 @@
 {
-  "name": "io.github.oddsflowai-team/hkracing",
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "live.hkracing/mcp",
+  "title": "HK Racing AI",
   "description": "Hong Kong horse racing: race cards, AI win chances, odds, results, form and stats.",
   "version": "1.0.0",
   "websiteUrl": "https://hkracing.live",

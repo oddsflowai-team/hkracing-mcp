@@ -4,6 +4,7 @@
 
 - **Endpoint:** `https://hkracing.live/mcp` (Streamable HTTP, read-only, no sign-in, free)
 - **Website:** [hkracing.live](https://hkracing.live) · English: [hkracing.live/en](https://hkracing.live/en)
+- **Official MCP Registry:** `live.hkracing/mcp`
 - **By:** [OddsFlow](https://www.oddsflow.ai) — sports-analytics AI
 
 > Serious racing analysis used to belong to institutions. HK Racing AI compiles the Hong Kong Jockey Club's public data, adds statistics and an AI model, and makes it usable by anyone — on the website, and now directly inside your AI assistant.
